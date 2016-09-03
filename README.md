@@ -1,2 +1,3 @@
 # hello-world
-Welcome
+Welcome to chumasteven.
+HTML, CSS, JS, PHP,MySQL
